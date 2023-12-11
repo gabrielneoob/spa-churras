@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "131115646",
+    "date": "26042024",
+    "title": "Churras do Neoob",
+    "guests": [
+      {"name": "Amanda", "contribution": "20"},
+      {"name": "Maria", "contribution": "10"},
+      {"name": "Fernanda", "contribution": "20"},
+      {"name": "Andressa", "contribution": "20"}
+    ],
+    "user": "DSACdscdsa5" 
+  },
+  {
+    "_id": "15dsa6d16sa5d",
+    "date": "06082024",
+    "title": "Churras da Amanda",
+    "guests": [
+      {"name": "Gabriel", "contribution": "20"},
+      {"name": "Maria", "contribution": "10"},
+      {"name": "Fernanda", "contribution": "20"},
+      {"name": "Andressa", "contribution": "20"}
+    ],
+    "user": "dasd2edas" 
+  },
+  {
+    "_id": "dasdwqe12",
+    "date": "16112026",
+    "title": "Churras da Andressa",
+    "guests": [
+      {"name": "Amanda", "contribution": "20"},
+      {"name": "Maria", "contribution": "10"},
+      {"name": "Fernanda", "contribution": "20"},
+      {"name": "Gabriel", "contribution": "20"}
+    ],
+    "user": "dasd51w" 
+  },
+  {
+    "_id": "15dsa6d16sa5d",
+    "date": "26042024",
+    "title": "Churras do Neoob",
+    "guests": [
+      {"name": "Amanda", "contribution": "20"},
+      {"name": "Maria", "contribution": "10"},
+      {"name": "Fernanda", "contribution": "20"},
+      {"name": "Andressa", "contribution": "20"}
+    ],
+    "user": "312dasdw" 
+  }
+]
